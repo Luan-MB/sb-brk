@@ -6,7 +6,7 @@ Autores:
 
 Instruções:
         make
-        ./avalia
+        ./meuAlocador
         make purge
 
 **************************************************
